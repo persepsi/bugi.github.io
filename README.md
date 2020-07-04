@@ -1,1 +1,1 @@
-# bugi.github.io
+# sample
